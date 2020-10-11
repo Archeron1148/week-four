@@ -1,6 +1,7 @@
 notes week four
 
 to do:
+
     -week 3 reading 3
     -spatial archaeology
     -consolidation document
