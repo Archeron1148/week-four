@@ -63,6 +63,32 @@ https://core.ac.uk/download/pdf/77997647.pdf
     **In  an  era  where data  resources  and  availability far  exceed  the  technical  skills required to process   spatial   patterns   and   relationships   in   geo-referenced   information,   archaeologists concurrently  face  the  challenge  of  studying  complex phenomena  that require  collaborative research  across  different intellectual communities. Withgreater  availability  of  archaeological data  and  more  stringent  control  over  their  metadata,  there  are  growing  opportunities  to  developgeographic  visualization  tools  on Web-based  platforms.**
     In  addition,  reorientingour  view  of  maps  as  spatial  representations  that  facilitate the  generation  of  new  knowledge broadens  the  scope  of  computational  and  digital  archaeology. This   reorientation   can   significantly   expand possibilities   for   working   with   scholars   from disciplines  such  as  geography,  cognitive  science,  computer  science,  history  and  philosophy  of science,  and  anthropology,  collaborations  that  can  have  wider  implications  on  knowledge-making in the social and historical sciences.
     
-    
-    
-    
+FEEDBACK FROM PREVIOUS REFLECTIONS:
+
+1. 
+Hiya,
+wk 1 Saw your annotations about Hypothesis; addressed those things there, thanks! In your reflection, I appreciated the quote you selected and your own question asking if we are not making the same mistake. How do we guard against that? And I especially appreciate your note about privilege/anonymity. So looks like you’re off to a good start! As we progress, having these notes and earlier reflections handy will enable you to trace out the evolution of your thinking about what digital archaeology is or could be or should be, and tying that evolution into the readings (the broader context) will help push you beyond your comfort zone. I look forward to hearing how this week’s work has gone; keep it up!
+Dr Graham
+
+2.
+Hi Griffin, Emma here
+ The questions that you ask regarding the ethics of digital archaeology are great; they really showcase all of the different aspects involved in trying to hammer out a concrete understanding of what is okay or not. Additionally, your notes on the issues that arose in your recording were excellent examples of the inherent problems with collecting data. Do these insights you’ve made in your own fieldwork give you a better understanding of the possible issues that may be present in the research of others that you encounter?
+Emma G & Dr Graham
+
+Hey,
+Yeah for sure: I think that there is a very obvious issue with some public forms of digital archaeology. If there are no limits to who can contribute to an archaeological study then it is totally possible for people who have no expert knowledge to make mistakes and corrupt the data - like me recording the monuments. So, I think we have to be very careful about how much a wider audience can actually be trusted with data in that regard (not to mention, when data collection is open to the wider internet its possible for people to purposefully cause trouble).
+Regards,
+Griffin Shea
+
+Hi,
+Yep, out-and-out vandalism is always an issue. But sometimes I think the overall danger posed by non-experts is not as deal-breaking as it might first seem. Check out MIcropasts: https://crowdsourced.micropasts.org and Global Explorer https://www.globalxplorer.org/ for how they use cross-referencing of crowd work to mitigate errors… something similar to that’ll work in our case too.
+Cheers,
+Dr Graham
+
+3.
+Hi,
+Looks like you’ve been progressing well with some of last week’s assignments. Writing what worked well and what didn’t work well in relation to building your model would be a good addition to your ‘notes’ section.
+It sounds like you’re using your personal stories to get a better sense of what questions to ask regarding your research. This is really great, and will help you to be creative in your approach towards your project. It would be interesting to hear more about where emotions show up throughout the course of your research, and how this too might influence the questions you ask.
+Looking forward to reading your work for this week,
+Emma (& Dr Graham)
+
