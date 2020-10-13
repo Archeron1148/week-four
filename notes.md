@@ -66,6 +66,7 @@ https://core.ac.uk/download/pdf/77997647.pdf
 FEEDBACK FROM PREVIOUS REFLECTIONS:
 
 #1. 
+
 Hiya,
 
 wk 1 Saw your annotations about Hypothesis; addressed those things there, thanks! In your reflection, I appreciated the quote you selected and your own question asking if we are not making the same mistake. How do we guard against that? And I especially appreciate your note about privilege/anonymity. So looks like you’re off to a good start! As we progress, having these notes and earlier reflections handy will enable you to trace out the evolution of your thinking about what digital archaeology is or could be or should be, and tying that evolution into the readings (the broader context) will help push you beyond your comfort zone. I look forward to hearing how this week’s work has gone; keep it up!
@@ -73,6 +74,7 @@ wk 1 Saw your annotations about Hypothesis; addressed those things there, thanks
 Dr Graham
 
 #2.
+
 Hi Griffin, Emma here
 
 The questions that you ask regarding the ethics of digital archaeology are great; they really showcase all of the different aspects involved in trying to hammer out a concrete understanding of what is okay or not. Additionally, your notes on the issues that arose in your recording were excellent examples of the inherent problems with collecting data. Do these insights you’ve made in your own fieldwork give you a better understanding of the possible issues that may be present in the research of others that you encounter?
@@ -96,6 +98,7 @@ Cheers,
 Dr Graham
 
 #3.
+
 Hi,
 
 Looks like you’ve been progressing well with some of last week’s assignments. Writing what worked well and what didn’t work well in relation to building your model would be a good addition to your ‘notes’ section.
